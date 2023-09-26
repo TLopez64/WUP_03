@@ -76,4 +76,4 @@ We don't have evidence that there is a difference in the alcohol consumption bet
 
 ## Conclusions
 
-
+Is there a difference between the alcohol consumed between the row you choose to sit in? Yes there is a difference between the alcohol consumed by the row you sit it. Based on the data the back row consumes more alcohol than the people who sit in the front and middle row. The p is 0.000116, which is smaller than 0.05 I will reject the null hypothesis. Therefore the back row people consume more alcohol.
